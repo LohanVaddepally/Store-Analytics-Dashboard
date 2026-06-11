@@ -70,8 +70,3 @@ This project demonstrates how raw retail data can be transformed into:
 - Build Streamlit dashboard
 - Add multiple-year datasets
 - Include profit margin analysis
-
----
-
-## Author
-New Graduate Data Analyst Portfolio Project
